@@ -1,3 +1,4 @@
 # hello-world
 My first GitHub repository
-This is a bit about myself.  This is another bit.  I rather have a byte than a bit.
+<p>This is a bit about myself.</p>
+<p>This is another bit.  I rather have a byte than a bit.</p>
